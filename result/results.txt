@@ -1,0 +1,8 @@
+default: {'yes': 150, 'no': 150, 'yesTrue': 74, 'noTrue': 147}
+irr: {'yes': 150, 'no': 150, 'yesTrue': 101, 'noTrue': 144}
+open: {'yes': 150, 'no': 150, 'yesTrue': 50, 'noTrue': 146}
+several: {'yes': 150, 'no': 450, 'yesTrue': 1, 'noTrue': 381}
+ex1: {'yes': 150, 'no': 450, 'yesTrue': 5, 'noTrue': 438}
+ex2: {'yes': 150, 'no': 150, 'yesTrue': 0, 'noTrue': 150}
+ex3: {'yes': 150, 'no': 150, 'yesTrue': 57, 'noTrue': 143}
+priority: {'yes': 300, 'no': 300, 'yesTrue': 63, 'noTrue': 298}
